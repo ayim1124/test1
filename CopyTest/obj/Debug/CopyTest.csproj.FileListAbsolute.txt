@@ -4,3 +4,4 @@ D:\hw\window\CopyTest\test1\CopyTest\obj\Debug\CopyTest.dll
 D:\hw\window\CopyTest\test1\CopyTest\obj\Debug\CopyTest.pdb
 D:\hw\window\CopyTest\test1\CopyTest\obj\Debug\CopyTest.csprojResolveAssemblyReference.cache
 D:\hw\window\CopyTest\test1\CopyTest\bin\Debug\test1.txt
+D:\hw\window\CopyTest\test1\CopyTest\bin\Debug\test2.txt
