@@ -1,0 +1,5 @@
+D:\hw\window\CopyTest\test1\CopyTest\bin\Debug\CopyTest.dll
+D:\hw\window\CopyTest\test1\CopyTest\bin\Debug\CopyTest.pdb
+D:\hw\window\CopyTest\test1\CopyTest\obj\Debug\CopyTest.dll
+D:\hw\window\CopyTest\test1\CopyTest\obj\Debug\CopyTest.pdb
+D:\hw\window\CopyTest\test1\CopyTest\bin\Debug\test1.txt
