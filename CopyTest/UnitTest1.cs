@@ -8,6 +8,7 @@ namespace CopyTest
     public class UnitTest1
     {
         [TestMethod]
+        [DeploymentItem("test1.txt")]
         public void ConstructorTest()
         {
             Assert.IsTrue(File.Exists("test1.txt"));
